@@ -1,0 +1,7 @@
+C:\Users\Vicec\source\repos\Kalıtım_ornek1\Kalıtım_ornek1\bin\Debug\Kalıtım_ornek1.exe.config
+C:\Users\Vicec\source\repos\Kalıtım_ornek1\Kalıtım_ornek1\bin\Debug\Kalıtım_ornek1.exe
+C:\Users\Vicec\source\repos\Kalıtım_ornek1\Kalıtım_ornek1\bin\Debug\Kalıtım_ornek1.pdb
+C:\Users\Vicec\source\repos\Kalıtım_ornek1\Kalıtım_ornek1\obj\Debug\Kalıtım_ornek1.csprojAssemblyReference.cache
+C:\Users\Vicec\source\repos\Kalıtım_ornek1\Kalıtım_ornek1\obj\Debug\Kalıtım_ornek1.csproj.CoreCompileInputs.cache
+C:\Users\Vicec\source\repos\Kalıtım_ornek1\Kalıtım_ornek1\obj\Debug\Kalıtım_ornek1.exe
+C:\Users\Vicec\source\repos\Kalıtım_ornek1\Kalıtım_ornek1\obj\Debug\Kalıtım_ornek1.pdb
