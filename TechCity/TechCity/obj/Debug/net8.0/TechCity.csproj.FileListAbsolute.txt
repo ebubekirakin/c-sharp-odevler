@@ -1,0 +1,14 @@
+C:\Users\win11\source\repos\TechCity\TechCity\bin\Debug\net8.0\TechCity.exe
+C:\Users\win11\source\repos\TechCity\TechCity\bin\Debug\net8.0\TechCity.deps.json
+C:\Users\win11\source\repos\TechCity\TechCity\bin\Debug\net8.0\TechCity.runtimeconfig.json
+C:\Users\win11\source\repos\TechCity\TechCity\bin\Debug\net8.0\TechCity.dll
+C:\Users\win11\source\repos\TechCity\TechCity\bin\Debug\net8.0\TechCity.pdb
+C:\Users\win11\source\repos\TechCity\TechCity\obj\Debug\net8.0\TechCity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\source\repos\TechCity\TechCity\obj\Debug\net8.0\TechCity.AssemblyInfoInputs.cache
+C:\Users\win11\source\repos\TechCity\TechCity\obj\Debug\net8.0\TechCity.AssemblyInfo.cs
+C:\Users\win11\source\repos\TechCity\TechCity\obj\Debug\net8.0\TechCity.csproj.CoreCompileInputs.cache
+C:\Users\win11\source\repos\TechCity\TechCity\obj\Debug\net8.0\TechCity.dll
+C:\Users\win11\source\repos\TechCity\TechCity\obj\Debug\net8.0\refint\TechCity.dll
+C:\Users\win11\source\repos\TechCity\TechCity\obj\Debug\net8.0\TechCity.pdb
+C:\Users\win11\source\repos\TechCity\TechCity\obj\Debug\net8.0\TechCity.genruntimeconfig.cache
+C:\Users\win11\source\repos\TechCity\TechCity\obj\Debug\net8.0\ref\TechCity.dll

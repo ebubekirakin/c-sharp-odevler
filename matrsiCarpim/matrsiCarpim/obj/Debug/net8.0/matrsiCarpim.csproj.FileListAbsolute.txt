@@ -1,0 +1,14 @@
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\bin\Debug\net8.0\matrsiCarpim.exe
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\bin\Debug\net8.0\matrsiCarpim.deps.json
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\bin\Debug\net8.0\matrsiCarpim.runtimeconfig.json
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\bin\Debug\net8.0\matrsiCarpim.dll
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\bin\Debug\net8.0\matrsiCarpim.pdb
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\obj\Debug\net8.0\matrsiCarpim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\obj\Debug\net8.0\matrsiCarpim.AssemblyInfoInputs.cache
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\obj\Debug\net8.0\matrsiCarpim.AssemblyInfo.cs
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\obj\Debug\net8.0\matrsiCarpim.csproj.CoreCompileInputs.cache
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\obj\Debug\net8.0\matrsiCarpim.dll
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\obj\Debug\net8.0\refint\matrsiCarpim.dll
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\obj\Debug\net8.0\matrsiCarpim.pdb
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\obj\Debug\net8.0\matrsiCarpim.genruntimeconfig.cache
+C:\Users\win11\source\repos\matrsiCarpim\matrsiCarpim\obj\Debug\net8.0\ref\matrsiCarpim.dll
