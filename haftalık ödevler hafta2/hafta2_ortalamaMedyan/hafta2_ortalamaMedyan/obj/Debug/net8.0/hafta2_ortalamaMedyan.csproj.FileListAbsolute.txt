@@ -1,0 +1,14 @@
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\bin\Debug\net8.0\hafta2_ortalamaMedyan.exe
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\bin\Debug\net8.0\hafta2_ortalamaMedyan.deps.json
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\bin\Debug\net8.0\hafta2_ortalamaMedyan.runtimeconfig.json
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\bin\Debug\net8.0\hafta2_ortalamaMedyan.dll
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\bin\Debug\net8.0\hafta2_ortalamaMedyan.pdb
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\obj\Debug\net8.0\hafta2_ortalamaMedyan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\obj\Debug\net8.0\hafta2_ortalamaMedyan.AssemblyInfoInputs.cache
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\obj\Debug\net8.0\hafta2_ortalamaMedyan.AssemblyInfo.cs
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\obj\Debug\net8.0\hafta2_ortalamaMedyan.csproj.CoreCompileInputs.cache
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\obj\Debug\net8.0\hafta2_ortalamaMedyan.dll
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\obj\Debug\net8.0\refint\hafta2_ortalamaMedyan.dll
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\obj\Debug\net8.0\hafta2_ortalamaMedyan.pdb
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\obj\Debug\net8.0\hafta2_ortalamaMedyan.genruntimeconfig.cache
+C:\Users\win11\source\repos\hafta2_ortalamaMedyan\hafta2_ortalamaMedyan\obj\Debug\net8.0\ref\hafta2_ortalamaMedyan.dll

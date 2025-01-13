@@ -1,0 +1,14 @@
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\bin\Debug\net8.0\asalSayiTopl.exe
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\bin\Debug\net8.0\asalSayiTopl.deps.json
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\bin\Debug\net8.0\asalSayiTopl.runtimeconfig.json
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\bin\Debug\net8.0\asalSayiTopl.dll
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\bin\Debug\net8.0\asalSayiTopl.pdb
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\obj\Debug\net8.0\asalSayiTopl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\obj\Debug\net8.0\asalSayiTopl.AssemblyInfoInputs.cache
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\obj\Debug\net8.0\asalSayiTopl.AssemblyInfo.cs
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\obj\Debug\net8.0\asalSayiTopl.csproj.CoreCompileInputs.cache
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\obj\Debug\net8.0\asalSayiTopl.dll
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\obj\Debug\net8.0\refint\asalSayiTopl.dll
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\obj\Debug\net8.0\asalSayiTopl.pdb
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\obj\Debug\net8.0\asalSayiTopl.genruntimeconfig.cache
+C:\Users\win11\source\repos\asalSayiTopl\asalSayiTopl\obj\Debug\net8.0\ref\asalSayiTopl.dll

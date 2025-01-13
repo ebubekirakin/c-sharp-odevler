@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win11\\source\\repos\\hafta2_ard\u0131\u015F\u0131kSay\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B920A354-5C65-4DD7-9D7F-7F85336DC49A}|hafta2_ard\u0131\u015F\u0131kSay\u0131\\hafta2_ard\u0131\u015F\u0131kSay\u0131.csproj|c:\\users\\win11\\source\\repos\\hafta2_ard\u0131\u015F\u0131ksay\u0131\\hafta2_ard\u0131\u015F\u0131ksay\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B920A354-5C65-4DD7-9D7F-7F85336DC49A}|hafta2_ard\u0131\u015F\u0131kSay\u0131\\hafta2_ard\u0131\u015F\u0131kSay\u0131.csproj|solutionrelative:hafta2_ard\u0131\u015F\u0131ksay\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\source\\repos\\hafta2_ard\u0131\u015F\u0131kSay\u0131\\hafta2_ard\u0131\u015F\u0131kSay\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "hafta2_ard\u0131\u015F\u0131kSay\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\win11\\source\\repos\\hafta2_ard\u0131\u015F\u0131kSay\u0131\\hafta2_ard\u0131\u015F\u0131kSay\u0131\\Program.cs",
+              "RelativeToolTip": "hafta2_ard\u0131\u015F\u0131kSay\u0131\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:17:10.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

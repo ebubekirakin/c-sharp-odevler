@@ -1,0 +1,14 @@
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\bin\Debug\net8.0\hafta2_ardışıkSayı.exe
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\bin\Debug\net8.0\hafta2_ardışıkSayı.deps.json
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\bin\Debug\net8.0\hafta2_ardışıkSayı.runtimeconfig.json
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\bin\Debug\net8.0\hafta2_ardışıkSayı.dll
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\bin\Debug\net8.0\hafta2_ardışıkSayı.pdb
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\obj\Debug\net8.0\hafta2_ardışıkSayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\obj\Debug\net8.0\hafta2_ardışıkSayı.AssemblyInfoInputs.cache
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\obj\Debug\net8.0\hafta2_ardışıkSayı.AssemblyInfo.cs
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\obj\Debug\net8.0\hafta2_ardışıkSayı.csproj.CoreCompileInputs.cache
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\obj\Debug\net8.0\hafta2_ardışıkSayı.dll
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\obj\Debug\net8.0\refint\hafta2_ardışıkSayı.dll
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\obj\Debug\net8.0\hafta2_ardışıkSayı.pdb
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\obj\Debug\net8.0\hafta2_ardışıkSayı.genruntimeconfig.cache
+C:\Users\win11\source\repos\hafta2_ardışıkSayı\hafta2_ardışıkSayı\obj\Debug\net8.0\ref\hafta2_ardışıkSayı.dll

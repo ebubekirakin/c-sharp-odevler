@@ -1,0 +1,14 @@
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\bin\Debug\net8.0\hafta2_ikiliArama.exe
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\bin\Debug\net8.0\hafta2_ikiliArama.deps.json
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\bin\Debug\net8.0\hafta2_ikiliArama.runtimeconfig.json
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\bin\Debug\net8.0\hafta2_ikiliArama.dll
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\bin\Debug\net8.0\hafta2_ikiliArama.pdb
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\obj\Debug\net8.0\hafta2_ikiliArama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\obj\Debug\net8.0\hafta2_ikiliArama.AssemblyInfoInputs.cache
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\obj\Debug\net8.0\hafta2_ikiliArama.AssemblyInfo.cs
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\obj\Debug\net8.0\hafta2_ikiliArama.csproj.CoreCompileInputs.cache
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\obj\Debug\net8.0\hafta2_ikiliArama.dll
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\obj\Debug\net8.0\refint\hafta2_ikiliArama.dll
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\obj\Debug\net8.0\hafta2_ikiliArama.pdb
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\obj\Debug\net8.0\hafta2_ikiliArama.genruntimeconfig.cache
+C:\Users\win11\source\repos\hafta2_ikiliArama\hafta2_ikiliArama\obj\Debug\net8.0\ref\hafta2_ikiliArama.dll

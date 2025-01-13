@@ -1,0 +1,14 @@
+C:\Users\win11\source\repos\labirent\labirent\bin\Debug\net8.0\labirent.exe
+C:\Users\win11\source\repos\labirent\labirent\bin\Debug\net8.0\labirent.deps.json
+C:\Users\win11\source\repos\labirent\labirent\bin\Debug\net8.0\labirent.runtimeconfig.json
+C:\Users\win11\source\repos\labirent\labirent\bin\Debug\net8.0\labirent.dll
+C:\Users\win11\source\repos\labirent\labirent\bin\Debug\net8.0\labirent.pdb
+C:\Users\win11\source\repos\labirent\labirent\obj\Debug\net8.0\labirent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\source\repos\labirent\labirent\obj\Debug\net8.0\labirent.AssemblyInfoInputs.cache
+C:\Users\win11\source\repos\labirent\labirent\obj\Debug\net8.0\labirent.AssemblyInfo.cs
+C:\Users\win11\source\repos\labirent\labirent\obj\Debug\net8.0\labirent.csproj.CoreCompileInputs.cache
+C:\Users\win11\source\repos\labirent\labirent\obj\Debug\net8.0\labirent.dll
+C:\Users\win11\source\repos\labirent\labirent\obj\Debug\net8.0\refint\labirent.dll
+C:\Users\win11\source\repos\labirent\labirent\obj\Debug\net8.0\labirent.pdb
+C:\Users\win11\source\repos\labirent\labirent\obj\Debug\net8.0\labirent.genruntimeconfig.cache
+C:\Users\win11\source\repos\labirent\labirent\obj\Debug\net8.0\ref\labirent.dll

@@ -1,0 +1,14 @@
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\bin\Debug\net8.0\hafta2_odev4.exe
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\bin\Debug\net8.0\hafta2_odev4.deps.json
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\bin\Debug\net8.0\hafta2_odev4.runtimeconfig.json
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\bin\Debug\net8.0\hafta2_odev4.dll
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\bin\Debug\net8.0\hafta2_odev4.pdb
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\obj\Debug\net8.0\hafta2_odev4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\obj\Debug\net8.0\hafta2_odev4.AssemblyInfoInputs.cache
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\obj\Debug\net8.0\hafta2_odev4.AssemblyInfo.cs
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\obj\Debug\net8.0\hafta2_odev4.csproj.CoreCompileInputs.cache
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\obj\Debug\net8.0\hafta2_odev4.dll
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\obj\Debug\net8.0\refint\hafta2_odev4.dll
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\obj\Debug\net8.0\hafta2_odev4.pdb
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\obj\Debug\net8.0\hafta2_odev4.genruntimeconfig.cache
+C:\Users\win11\source\repos\hafta2_odev4\hafta2_odev4\obj\Debug\net8.0\ref\hafta2_odev4.dll

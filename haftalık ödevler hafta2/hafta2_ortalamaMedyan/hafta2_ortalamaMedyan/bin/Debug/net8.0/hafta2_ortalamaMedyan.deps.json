@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hafta2_ortalamaMedyan/1.0.0": {
+        "runtime": {
+          "hafta2_ortalamaMedyan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hafta2_ortalamaMedyan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
