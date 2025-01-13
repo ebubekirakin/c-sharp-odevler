@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win11\\source\\repos\\hafta4odev3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91D5F489-106D-4D1C-BD98-891901649751}|hafta4odev3\\hafta4odev3.csproj|c:\\users\\win11\\source\\repos\\hafta4odev3\\hafta4odev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D5F489-106D-4D1C-BD98-891901649751}|hafta4odev3\\hafta4odev3.csproj|solutionrelative:hafta4odev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\source\\repos\\hafta4odev3\\hafta4odev3\\Program.cs",
+              "RelativeDocumentMoniker": "hafta4odev3\\Program.cs",
+              "ToolTip": "C:\\Users\\win11\\source\\repos\\hafta4odev3\\hafta4odev3\\Program.cs*",
+              "RelativeToolTip": "hafta4odev3\\Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:50:53.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

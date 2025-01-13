@@ -1,0 +1,7 @@
+C:\Users\win11\source\repos\hafta5odev1\hafta5odev1\bin\Debug\hafta5odev1.exe.config
+C:\Users\win11\source\repos\hafta5odev1\hafta5odev1\bin\Debug\hafta5odev1.exe
+C:\Users\win11\source\repos\hafta5odev1\hafta5odev1\bin\Debug\hafta5odev1.pdb
+C:\Users\win11\source\repos\hafta5odev1\hafta5odev1\obj\Debug\hafta5odev1.csproj.AssemblyReference.cache
+C:\Users\win11\source\repos\hafta5odev1\hafta5odev1\obj\Debug\hafta5odev1.csproj.CoreCompileInputs.cache
+C:\Users\win11\source\repos\hafta5odev1\hafta5odev1\obj\Debug\hafta5odev1.exe
+C:\Users\win11\source\repos\hafta5odev1\hafta5odev1\obj\Debug\hafta5odev1.pdb
