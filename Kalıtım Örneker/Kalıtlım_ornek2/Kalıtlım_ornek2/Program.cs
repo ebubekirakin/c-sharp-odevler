@@ -9,8 +9,7 @@ namespace Kalıtlım_ornek2
     class Program
     {
        
-
-       
+   
             static void Main(string[] args)
             {
                 Console.WriteLine("Hayvan türünü seçiniz (Memeli/Kus):");
