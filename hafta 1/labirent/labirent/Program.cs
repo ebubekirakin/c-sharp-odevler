@@ -66,6 +66,7 @@ class Labyrinth
                 }
             }
         }
+        
 
         return -1; // Hazineye ulaşılamıyorsa
     }
