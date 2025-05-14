@@ -9,6 +9,8 @@ class TechCity
 
     static void Main()
     {
+
+        
         // Grid tanımlama
         int[,] grid = {
             { 1, 1, 0, 1 },
