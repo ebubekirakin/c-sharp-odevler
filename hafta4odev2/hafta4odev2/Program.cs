@@ -3,6 +3,8 @@ using System.Globalization;
 
 namespace hafta4odev2
 {
+
+    
     public class Urun
     {
         public string Ad { get; set; }
