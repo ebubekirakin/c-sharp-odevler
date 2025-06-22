@@ -2,6 +2,7 @@
 
 class SpiralMatrix
 {
+    
     static void Main()
     {
         Console.Write("Matrisin boyutunu girin (N): ");
