@@ -1,9 +1,11 @@
-﻿using System;
+using System;
 
 namespace AdresDefteri
 {
     public class Kisi
     {
+
+
         // Özellikler
         public string Ad { get; private set; }
         public string Soyad { get; private set; }
